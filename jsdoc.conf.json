@@ -1,0 +1,8 @@
+{
+  "plugins": [],
+  "source": {
+    "includePattern": ".+\\.m?js(doc|x)?$",
+    "excludePattern": "(^|\\/|\\\\)_"
+  },
+  "sourceType": "module"
+}
